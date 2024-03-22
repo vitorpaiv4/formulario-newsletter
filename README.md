@@ -11,7 +11,7 @@ Este é um formulário de newsletter desenvolvido utilizando React, TypeScript, 
 
 ## Tecnologias Utilizadas
 
-- **React**: Biblioteca JavaScript para construção de interfaces de usuário.
+- ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white) **React**: Biblioteca JavaScript para construção de interfaces de usuário.
 - **TypeScript**: Superset tipado para JavaScript, fornecendo uma experiência de desenvolvimento mais robusta.
 - **Tailwind CSS**: Framework de CSS utilitário para criar designs personalizados rapidamente.
 - **PostCSS com Autoprefixer**: Ferramenta para transformar CSS com JavaScript, com Autoprefixer para adicionar automaticamente prefixos de fornecedores aos estilos CSS.
