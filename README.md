@@ -19,14 +19,14 @@ Este é um formulário de newsletter desenvolvido utilizando React, TypeScript, 
 ## Instalação
 
 1. Clone este repositório para sua máquina local.
-   git clone https://github.com/vitorpaiv4/formulario-newsletter.git
-2. Instale as dependências utilizando npm ou yarn.
-   npm install | yarn install
+   `git clone https://github.com/vitorpaiv4/formulario-newsletter.git`
+3. Instale as dependências utilizando npm ou yarn.
+   `npm install | yarn install`
 
 ## Executando o Projeto
 
 1. Após instalar as dependências, você pode iniciar o servidor de desenvolvimento.
-   npm start | yarm start
+   `npm start | yarm start`
 3. O servidor de desenvolvimento será iniciado e o formulário estará acessível em seu navegador no endereço `http://localhost:3000`.
 
 ## Contribuindo
