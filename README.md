@@ -13,7 +13,7 @@ Este é um formulário de newsletter desenvolvido utilizando React, TypeScript, 
 
 - ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white) **React**: Biblioteca JavaScript para construção de interfaces de usuário.
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) **TypeScript**: Superset tipado para JavaScript, fornecendo uma experiência de desenvolvimento mais robusta.
--![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) **Tailwind CSS**: Framework de CSS utilitário para criar designs personalizados rapidamente. 
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) **Tailwind CSS**: Framework de CSS utilitário para criar designs personalizados rapidamente. 
 - ![PostCSS](https://img.shields.io/badge/-PostCSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white) **PostCSS com Autoprefixer**: Ferramenta para transformar CSS com JavaScript, com Autoprefixer para adicionar automaticamente prefixos de fornecedores aos estilos CSS.
 
 ## Instalação
