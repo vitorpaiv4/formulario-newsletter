@@ -1,30 +1,36 @@
-# React + TypeScript + Vite
+# Formulário de Newsletter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um formulário de newsletter desenvolvido utilizando React, TypeScript, Tailwind CSS e PostCSS com Autoprefixer.
 
-Currently, two official plugins are available:
+## Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Coleta de Dados**: O formulário coleta o nome e o e-mail dos usuários interessados na newsletter.
+- **Validação**: A página valida os campos de entrada, garantindo que os campos não estejam vazios e que o e-mail esteja em um formato válido.
+- **Feedback de Erro**: Se os campos não estiverem preenchidos corretamente, o usuário receberá um feedback indicando os campos que precisam ser corrigidos.
+- **Responsividade**: A página é responsiva e se adapta a diferentes tamanhos de tela.
 
-## Expanding the ESLint configuration
+## Tecnologias Utilizadas
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- **React**: Biblioteca JavaScript para construção de interfaces de usuário.
+- **TypeScript**: Superset tipado para JavaScript, fornecendo uma experiência de desenvolvimento mais robusta.
+- **Tailwind CSS**: Framework de CSS utilitário para criar designs personalizados rapidamente.
+- **PostCSS com Autoprefixer**: Ferramenta para transformar CSS com JavaScript, com Autoprefixer para adicionar automaticamente prefixos de fornecedores aos estilos CSS.
 
-- Configure the top-level `parserOptions` property like this:
+## Instalação
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+1. Clone este repositório para sua máquina local.
+   git clone https://github.com/vitorpaiv4/formulario-newsletter.git
+2. Instale as dependências utilizando npm ou yarn.
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Executando o Projeto
+
+1. Após instalar as dependências, você pode iniciar o servidor de desenvolvimento.
+2. O servidor de desenvolvimento será iniciado e o formulário estará acessível em seu navegador no endereço `http://localhost:3000`.
+
+## Contribuindo
+
+Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou relatar problemas.
+
+
+
+
